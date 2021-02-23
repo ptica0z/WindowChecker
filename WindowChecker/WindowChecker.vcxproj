@@ -152,8 +152,6 @@
     <ResourceCompile Include="WindowChecker.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="icon1.ico" />
-    <Image Include="icon2.ico" />
     <Image Include="small.ico" />
     <Image Include="WindowChecker.ico" />
   </ItemGroup>
